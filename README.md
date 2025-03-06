@@ -21,5 +21,8 @@ algorithm linked above.
 
 ## More links
 
-Paper: https://github.com/hsirkar/pdfs/blob/main/pipit-scholarly-paper.pdf
-SC23 Poster: https://github.com/hsirkar/pdfs/blob/main/sc23-pipit-poster.pptx.pdf
+Pipit repository: https://github.com/hpcgroup/pipit
+
+Pipit paper: https://github.com/hsirkar/pdfs/blob/main/pipit-scholarly-paper.pdf
+
+SC23 poster: https://github.com/hsirkar/pdfs/blob/main/sc23-pipit-poster.pptx.pdf
