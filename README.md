@@ -1,4 +1,4 @@
-# Scaling up trace analysis with Dask and Spark
+# Scaling up trace analysis with Dask and Spark (i.e. scaling Pipit)
 
 This repo contains some notebooks for using tools that are much more scalable than Pandas. These notebooks are more or less
 for exploring these technologies, and whether they fit the use case for [Pipit](https://github.com/hpcgroup/pipit). If so,
@@ -18,3 +18,8 @@ traversal, which in the case of distributed OLAP systems, involves materializing
 One simple tradeoff we can make for maximal performance is redundancy. If we store data both row-wise and column-wise,
 we can perform both column-based operations, for time-series based analyses, as well as row-based operations, like the lateness
 algorithm linked above.
+
+## More links
+
+Paper: https://github.com/hsirkar/pdfs/blob/main/pipit-scholarly-paper.pdf
+SC23 Poster: https://github.com/hsirkar/pdfs/blob/main/sc23-pipit-poster.pptx.pdf
