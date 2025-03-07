@@ -23,6 +23,6 @@ algorithm linked above.
 
 Pipit repository: https://github.com/hpcgroup/pipit
 
-Pipit paper: https://github.com/hsirkar/pdfs/blob/main/pipit-scholarly-paper.pdf
+Pipit paper: https://arxiv.org/pdf/2306.11177
 
 SC23 poster: https://github.com/hsirkar/pdfs/blob/main/sc23-pipit-poster.pptx.pdf
